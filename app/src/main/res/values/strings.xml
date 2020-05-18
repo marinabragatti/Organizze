@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Organizze</string>
+    <string name="text1">Organize suas contas onde estiver</string>
+    <string name="subText1">Simples, fácil e rápido de usar</string>
+    <string name="text2">Saiba para onde está indo seu dinheiro</string>
+    <string name="subText2">Categorizando seus lançamentos e vendo o destino de cada centavo</string>
+    <string name="text3">Nunca mais se esqueça de pagar uma conta</string>
+    <string name="subText3">Receba alertas quando quiser</string>
+    <string name="text4">Tudo organizado, no celular ou computador</string>
+    <string name="subText4">Use seu Organizze no seu smartphone e também pelo site</string>
+    <string name="textIntro">Crie sua conta grátis</string>
+    <string name="textLogin">Acesse sua conta</string>
+    <string name="subTextIntro">Junte-se a mais de um milhão de pessoas e comece já</string>
+    <string name="buttonCadastre">Cadastre-se</string>
+    <string name="buttonEntrar">Entrar</string>
+    <string name="subTextPossuiConta">Já tenho conta</string>
+    <string name="subTextTermosUso">Termos de uso</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
